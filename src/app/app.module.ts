@@ -13,6 +13,8 @@ import { FiltersComponent } from './filters/filters.component';
 import { FilterPriceComponent } from './filters/filter-price/filter-price.component';
 import { FilterSaleTypeComponent } from './filters/filter-sale-type/filter-sale-type.component';
 import { FilterAreaComponent } from './filters/filter-area/filter-area.component';
+import { FilterRoomsComponent } from './filters/filter-rooms/filter-rooms.component';
+import { FilterCityDistrictComponent } from './filters/filter-city-district/filter-city-district.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +24,9 @@ import { FilterAreaComponent } from './filters/filter-area/filter-area.component
     FiltersComponent,
     FilterPriceComponent,
     FilterSaleTypeComponent,
-    FilterAreaComponent
+    FilterAreaComponent,
+    FilterRoomsComponent,
+    FilterCityDistrictComponent
   ],
   imports: [
     BrowserModule,
