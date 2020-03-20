@@ -1,0 +1,9 @@
+:host h4 {
+    margin-left: 30px;
+
+}
+
+:host ng5-slider {
+    margin-left:30px;
+    margin-right: 0px;
+}
