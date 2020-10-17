@@ -1,6 +1,10 @@
 
 h1 {
         text-align: center;
-        color: tomato
+        color:grey
+}
+
+div {
+        background-color: lightgray;
 }
 
